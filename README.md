@@ -28,7 +28,10 @@ Profile views
 ![](https://visitor-badge.laobi.icu/badge?page_id=FelicityTech.FelicityTech)
 
 
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelicityTech&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
 
 
 <p align="center">
