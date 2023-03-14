@@ -22,7 +22,7 @@
 
 ## 📊 Stat
 Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=FelicityTech" alt="FelicityTech" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=FelicityTech" alt="FelicityTech" /> </p> -->
 
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=FelicityTech.FelicityTech)
