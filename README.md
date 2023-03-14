@@ -14,13 +14,6 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felicitytech&show_icons=true&locale=en&layout=compact&theme=dark" alt="felicitytech" /></p>
-
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felicitytech&show_icons=true&locale=en&theme=dark" alt="felicitytech" /></p>
-
-<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felicitytech&theme=dark" alt="felicitytech" /></p>
 
