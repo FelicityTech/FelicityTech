@@ -37,14 +37,14 @@ Profile views
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=FelicityTech.FelicityTech)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FelicityTech&show_icons=true&locale=en&layout=compact&theme=dark" alt="FelicityTech" /></p>
+</br>
     
     
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelicityTech&show_icons=true&locale=en&layout=compact&theme=dark" alt="FelicityTech" /></p
     
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&locale=en&theme=dark" alt="FelicityTech" /></p>
  
+ </br>
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FelicityTech&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
