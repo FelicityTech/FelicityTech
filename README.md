@@ -6,7 +6,7 @@
 📖 I have been learning and exploring these following tools and languages</h3>
 </br> 
 
-<div align="center"> 
+<div align="center"; diplay="Flex"> 
     <code><a href="https://www.learn-c.org" title="C" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original-wordmark.svg" alt="c" width="40" height="40"/></a></code>
    <code><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><code>
     <code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></code> 
