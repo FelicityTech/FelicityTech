@@ -20,19 +20,19 @@
 <a href="https://github.com/felicitytech/github-readme-activity-graph"><img alt="Solomon Adegoke' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=felicitytech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
-## 📊 Stats
-<!-- Profile views
-<p> <img src="https://komarev.com/ghpvc/?username=FelicityTech" alt="FelicityTech" /> </p> -->
+## 📊 Stat
+Profile views
+<p> <img src="https://komarev.com/ghpvc/?username=FelicityTech" alt="FelicityTech" /> </p>
 
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=FelicityTech.FelicityTech)
 
-<!-- LeetCode Stats Card -->
-<!-- <p align="center">
+ LeetCode Stats Card
+<p align="center">
   <a href="https://leetcode.com/FelicityTech" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=FelicityTech&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
   </a>
-</p> -->
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
@@ -43,7 +43,7 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FelicityTech&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
-<!-- GitHub Activity Graph -->
+GitHub Activity Graph
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ginny100&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
 
 ## 🏆 GitHub Trophies
