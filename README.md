@@ -27,17 +27,9 @@ Profile views
 <!-- Profile Visitors -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=FelicityTech.FelicityTech)
 
- LeetCode Stats Card
-<p align="center">
-  <a href="https://leetcode.com/FelicityTech" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=FelicityTech&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-  </a>
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelicityTech&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
+
+
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FelicityTech&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
