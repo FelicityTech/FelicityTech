@@ -40,9 +40,10 @@ Profile views
 </br>
     
     
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelicityTech&show_icons=true&locale=en&layout=compact&theme=dark" alt="FelicityTech" /></p
+<p><center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelicityTech&show_icons=true&locale=en&layout=compact&theme=dark" alt="FelicityTech" /></center></p>
+</br>
     
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&locale=en&theme=dark" alt="FelicityTech" /></p>
+ <p><center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&locale=en&theme=dark" alt="FelicityTech" /></center></p>
  
  </br>
 <p align="center">
