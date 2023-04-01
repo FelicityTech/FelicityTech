@@ -45,6 +45,11 @@ Profile views
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FelicityTech&show_icons=true&locale=en&theme=dark" alt="FelicityTech" /></p>
  
  </br>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=FelicityTech&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p>
+ 
+ </br>
 
 <!-- GitHub Activity Graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FelicityTech&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a>
