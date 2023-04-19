@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Solomon Eniola Adegoke</h1>
 <h3 align="center">Software Engineer / full stack Web Developer </h3>
 
+### Connect with me 🔭  
+<a href="https://www.linkedin.com/in/solomon-adegoke-534ba626a/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+</br>
 
 <h3 align="left">## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages</h3>
