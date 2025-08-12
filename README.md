@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solomon Eniola Adegoke</h1>
-<h3 align="center">Software Engineer / full stack Web Developer  / Data scientist </h3>
+<h3 align="center">Software Engineer / full stack Web Developer  / Machine Learning Engineering </h3>
 
 ### Connect with me 🔭  
 <a href="https://www.linkedin.com/in/solomon-adegoke-534ba626a/">
