@@ -1,15 +1,42 @@
 <h1 align="center">Hi 👋, I'm Solomon Eniola Adegoke</h1>
-<h3 align="center">Data Scientist | Software & AI/ML Engineer</h3>
+<h3 align="center">AI/ML Research Engineer | Data Scientist | Software Engineer</h3>
+
+<p align="center">
+  <em>Most ML work never leaves the laptop. I build things that ship.</em>
+</p>
+
+<p align="center">
+  I close the gap between a promising model and a product people actually use —
+  covering computer vision, LLMs, full-stack development, and data engineering.
+  I own it end to end.
+</p>
+
+---
+
+### 🔬 Currently
+- **AI/ML Research Fellow** @ [SPARK Academy](https://www.cameramriafrica.org/spark) (CAMERA MRI Africa) — Medical Imaging AI
+- **Researcher** @ [ML Collective](https://mlcollective.org/) — Independent ML Research
+- **Participant, Cohort 10** @ TRI AI Saturdays × Google DeepMind — AI Research Foundations
+
+---
+
+### 📚 Certifications
+- 🔄 IBM AI Engineering Professional Certificate *(in progress)*
+- ✅ Microsoft Azure AI Engineering
+- ✅ DataCamp — Machine Learning Engineer | Data Scientist with Python | AI Engineering for Data Scientists
 
 ---
 
 ### 🔭 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/solomon-adegoke-534ba626a/" target="_blank">
+  <a href="https://www.linkedin.com/in/solomon-eniola-adegoke/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/FelicityTech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://solomonadegoke1.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -33,6 +60,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original-wordmark.svg" alt="Seaborn" width="40" height="40"/></a>
 
   <!-- Cloud & DevOps -->
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
